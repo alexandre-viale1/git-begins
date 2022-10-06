@@ -1,0 +1,5 @@
+Commande pour cloner git: git clone https://github.com/alexandre-viale1/git-begins
+Les 3 commandes de push sont:
+git add [lenomdufichier]
+git commit -m [nomdufichiervoulu]
+git push -u origin master
